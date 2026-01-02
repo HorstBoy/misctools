@@ -1,0 +1,51 @@
+# Backup files
+*.bak
+*~
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editors & IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+*.swn
+*.sublime-workspace
+*.sublime-project
+
+# Environment & Virtualenvs
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+
+# Python distribution / Packaging
+dist/
+build/
+*.egg-info/
+.eggs/
+
+# Testing / Coverage
+.coverage
+htmlcov/
+.pytest_cache/
